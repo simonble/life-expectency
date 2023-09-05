@@ -82,10 +82,11 @@
         },
         {
           "location": {
-            "x": 348.79689102143675,
-            "y": 610
+            "x": 279.79689102143675,
+            "y": 630
           },
           "nodeIndex": "Years",
+          "nodeLineageTag": "ab7651ea-ea25-4d29-aa82-3903120080d4",
           "size": {
             "height": 213,
             "width": 234
@@ -107,11 +108,12 @@
         {
           "location": {
             "x": 618.00222085051,
-            "y": 610
+            "y": 593
           },
           "nodeIndex": "Population",
+          "nodeLineageTag": "a28a14a6-2507-4315-ac6e-0bcc16765a33",
           "size": {
-            "height": 175,
+            "height": 192,
             "width": 234
           },
           "zIndex": 0
